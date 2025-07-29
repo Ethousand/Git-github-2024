@@ -14,3 +14,6 @@ pero a esto se suma la creación de issues y proyectos que sirven para (como su 
 ### Portada de Github con README
 
 Para crear una portada a nuestro perfil, podemos crear un repositorio especial que tendra e mismo nombre de nuestro usuario y dentro de este colocaremos un Archivo README.md, esto github lo detecta y trae ese readme a nuestro perfil a manera de portada 
+
+## Cambios desde Web Editor
+Github tiene un pequeño editor de código que nos permite realizar cambio rápidos a nuestro proyectos
