@@ -37,4 +37,4 @@ bld/
 *.sln
 
 # user specific files
-appsettings.*.json
+appsettings.json
